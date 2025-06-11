@@ -1,7 +1,5 @@
 # SelfAware 🧠✨
 
-![SelfAware Logo](assets/logo.png)
-
 *Uma jornada de autoconhecimento e bem-estar emocional na palma da sua mão.*
 
 ---
@@ -18,17 +16,8 @@ O objetivo principal é promover a autonomia emocional, o autoconhecimento e for
 
 Aqui estão algumas das principais telas que compõem a experiência do usuário no SelfAware.
 
-![Login.png](Telas%20APP%2FLogin.png)
-![Cadastro.png](Telas%20APP%2FCadastro.png)
-![EsqueciSenha.png](Telas%20APP%2FEsqueciSenha.png)
-![Home.png](Telas%20APP%2FHome.png)
-![Testes.png](Telas%20APP%2FTestes.png)
-![Teste.png](Telas%20APP%2FTeste.png)
-![Dashboard.png](Telas%20APP%2FDashboard.png)
-![Menu.png](Telas%20APP%2FMenu.png)
-![Perfil.png](Telas%20APP%2FPerfil.png)
-![Ajuda.png](Telas%20APP%2FAjuda.png)
-![Sobre.png](Telas%20APP%2FSobre.png)
+Dentro da pasta do projeto!
+
 ---
 
 ## ✨ Principais Funcionalidades
