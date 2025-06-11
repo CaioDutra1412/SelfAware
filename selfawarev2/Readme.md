@@ -127,6 +127,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Feito por **Caio Ottoni**
 
 -   **E-mail:** ottonidev@gmail.com
--   **GitHub:** [@seu-github](https://github.com/seu-github)
--   **LinkedIn:** [/seu-linkedin](https://linkedin.com/in/seu-linkedin)
+-   **LinkedIn:** https://www.linkedin.com/in/caiodutra/
 
